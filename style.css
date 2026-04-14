@@ -116,3 +116,9 @@ body { font-family: 'Roboto', sans-serif; margin: 0; transition: 0.3s; backgroun
     background: #e0e0e0;
     transition: opacity 0.3s;
 }
+/* Ин кодро дар style.css мон, то одам экранро бо ангушт калон-хурд (zoom) карда натавонад */
+body {
+    touch-action: manipulation;
+    user-select: none; /* Барои он ки текстҳоро нусхабардорӣ карда нашавад */
+    -webkit-tap-highlight-color: transparent; /* Ранги кабуд ҳангоми пахш карданро нест мекунад */
+}
