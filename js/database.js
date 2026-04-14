@@ -7,7 +7,7 @@ export const myApps = [
     size: "92 MB", 
     icon: "assets/megafon.png",
     screenshots: ["assets/screen1.jpg"],
-    link: "https://drive.google.com/uc?export=download&id=16aWP7l403aopOaBxfnjI5gEYK9G7s2-y"
+    link: "https://github.com/mahmadsoni/APPRO/releases/download/v1.0.0/megafon-life.apk"
 }
 
 ];
