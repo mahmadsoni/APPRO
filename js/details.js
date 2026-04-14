@@ -32,7 +32,7 @@ if (app && container) {
             </div>
         </div>
 
-        <a href="${app.link}" class="download-btn">Насб кардан (Install)</a>
+        <a href="${app.link}" class="download-btn">насб кардан</a>
         
         <div class="screenshots-container">${screenshotsHTML}</div>
 
